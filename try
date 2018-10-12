@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Simple adding script
+enter first number=a
+read 'a'
+enter another number=b
+read 'b'
+exec (a+b)
+read sum
+
+echo "$a+$b=$sum"
+

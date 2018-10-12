@@ -1,0 +1,21 @@
+     1	this is linux
+     2	linux is operating system
+     3	it is a opensource software
+     4	I want to learn linux
+     5	I'm strugling to learn it
+     6	I need a good resource to learn linux
+     7	linux is used all super computer
+     8	most of the bank use linux
+     9	most of the servers use linux 
+    10	linux is run in command linux
+    11	edureka provides linux course
+    12	udemy also provide linux course
+    13	I use all of the resource
+    14	the major advantage of linux is its cost
+    15	it's free operating system
+    16	support is free through online help sites blogs and forums.
+    17	it is very resistant to malware such as spyware, adware and viruses.
+    18	A huge amount of free open source software has been developed for it.
+    19	I'm excited to learn linux
+    20	it is very resistant to malware such as spyware, adware and viruses.
+    21	

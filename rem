@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# simple note-taking script
+# author: rabin
+
+# Ask user fo input
+read -p "your note:" note
+
+echo $(date):$note >> ~/notes.txt
+echo note saved: $note
